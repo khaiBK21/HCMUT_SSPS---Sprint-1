@@ -5,3 +5,6 @@ Add documents about domain context, stakeholders, functional and non-functional 
 Add use case diagrams for the whole system and the module for specifying printing properties.
 Add the activity diagram, sequence diagram and class diagram for this module.
 Add the screeenshots of MVP ver. 1 for the user interface of the system.
+## November 4th, 2023
+Add diagram of layered architecture for HCMUT_SSPS.
+Add component diagram for printing module.
