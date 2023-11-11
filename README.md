@@ -34,9 +34,10 @@ Some of the relevant stakeholders are students and HCMUT_SPSO (Student Printing 
 ## Use-case description table for the printing properties specification module
 |Property|Content|
 |---|---|
-|'Use-case name'|Specify printing properties|
-|'Actor'|Student|
-|'Description'|Student change or choose printing properties|
-|'Trigger'|Click “Print Options” button|
-|'Normal flow'||
-|||
+|`Use-case name`|Specify printing properties|
+|`Actor`|Student|
+|`Description`|Student change or choose printing properties|
+|`Trigger`|Click “Print Options” button|
+|`Normal flow`|1) System display all printing properties (default printer, printing pages, number of copies, etc)<br>2) Student click on any option<br>3) System show changing options<br>4) Student clicks “Print” to start printer<br>5) System verifies pages and printer status<br>6) System send notification to SPS officer and return to main interface|
+|`Exceptions`|At stage 5: If there is no available printer or page, system will show error message.|
+|`Alternative flow`|None|
