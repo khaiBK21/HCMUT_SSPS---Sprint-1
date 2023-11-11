@@ -31,3 +31,12 @@ Some of the relevant stakeholders are students and HCMUT_SPSO (Student Printing 
 - Each printer has ID, brand/manufacturer name, printer model, short description, and the location (campus name, building name, and room number).
 - The system should be connected to HCMUT_SSO authentication service for user verification.
 - All the printing properties for the students to specify should be displayed in one view. 
+## Use-case description table for the printing properties specification module
+|Property|Content|
+|---|---|
+|'Use-case name'|Specify printing properties|
+|'Actor'|Student|
+|'Description'|Student change or choose printing properties|
+|'Trigger'|Click “Print Options” button|
+|'Normal flow'||
+|||
